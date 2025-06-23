@@ -1,1 +1,1 @@
-
+Sentiment Analysis is a crucial Machine Learning technique that helps us analyze the reviews given by users through the text they submit. A detailed analysis has been done of a dataset collected. The data collected and the analysis dobne has been documented in the word document submitted which can be referred for understanding the complete process. 
